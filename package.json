@@ -1,0 +1,10 @@
+{
+  "name": "blockify-mintify",
+  "description": "Mintify WordPress theme.",
+  "author": "Blockify",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "pot": "wp i18n make-pot ./ languages/mintify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
+    "zip": "rm -Rf ../../mintify.zip && zip -r ../../mintify.zip assets/ parts/ patterns/ styles/ templates/ languages/ readme.txt screenshot.png style.css theme.json"
+  }
+}
