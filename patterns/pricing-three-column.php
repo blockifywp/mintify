@@ -20,7 +20,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center","align":"wide"} -->
-<h2 class="alignwide has-text-align-center alignwide">Pricing for teams of all sizes</h2>
+<h2 class="wp-block-heading alignwide has-text-align-center">Pricing for teams of all sizes</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"0"},"margin":{"top":"var:preset|spacing|lg"}},"position":{"all":"relative"},"zIndex":{"all":"1"}},"layout":{"type":"default"},"fontSize":"18"} -->
@@ -38,10 +38,10 @@
 
 <!-- wp:group {"align":"wide","style":{"position":{"all":"relative"},"zIndex":{"all":"1"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{}},"className":"pricing-yearly"} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center pricing-yearly"><!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"className":"is-style-default","layout":{"contentSize":"240px"}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center pricing-yearly"><!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"className":"is-style-default","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center is-style-default" style="flex-basis:33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xs"},"position":{"all":"relative"},"zIndex":{"all":"2"},"border":{"width":"0px","style":"none"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"24"} -->
-<h3 class="has-text-align-center has-24-font-size">Personal</h3>
+<h3 class="wp-block-heading has-text-align-center has-24-font-size">Personal</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-default","fontSize":"14"} -->
@@ -49,7 +49,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"54"} -->
-<h4 class="has-text-align-center has-54-font-size"><sup>$</sup>39<small>/yr</small></h4>
+<h4 class="wp-block-heading has-text-align-center has-54-font-size"><sup>$</sup>39<small>/yr</small></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"style":{"typography":{"lineHeight":"2"}},"className":"is-style-checklist","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
@@ -84,7 +84,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:button {"backgroundColor":"shadow","textColor":"body","style":{"boxShadow":{"color":"transparent"}},"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-body-color has-shadow-background-color has-text-color has-background wp-element-button">Choose Personal</a></div>
+<div class="wp-block-button is-style-fill has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-body-color has-shadow-background-color has-text-color has-background wp-element-button" href="#">Choose Personal</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -93,7 +93,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"9px"},"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"gradient":"custom-theme","className":"is-style-default","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center is-style-default has-custom-theme-gradient-background has-background" style="border-radius:9px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xs"},"position":{"all":"relative"},"zIndex":{"all":"2"},"border":{"width":"0px","style":"none"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"24"} -->
-<h3 class="has-text-align-center has-24-font-size">Business</h3>
+<h3 class="wp-block-heading has-text-align-center has-24-font-size">Business</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-default","fontSize":"14"} -->
@@ -101,7 +101,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"54"} -->
-<h4 class="has-text-align-center has-54-font-size"><sup>$</sup>149<small>/yr</small></h4>
+<h4 class="wp-block-heading has-text-align-center has-54-font-size"><sup>$</sup>149<small>/yr</small></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"style":{"typography":{"lineHeight":"2"}},"className":"is-style-checklist","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
@@ -136,7 +136,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:button {"gradient":"primary","style":{"boxShadow":{"color":"#00f3f324","blur":"0","y":"0","x":"0","spread":"6","hover":{"y":"0","spread":"15"}},"color":{"text":"#070b1cbf"}}} -->
-<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--x:0px;--wp--custom--box-shadow--y:0px;--wp--custom--box-shadow--hover--y:0px;--wp--custom--box-shadow--blur:0px;--wp--custom--box-shadow--spread:6px;--wp--custom--box-shadow--hover--spread:15px;--wp--custom--box-shadow--color:#00f3f324"><a class="wp-block-button__link has-primary-gradient-background has-text-color has-background wp-element-button" style="color:#070b1cbf">Choose Business</a></div>
+<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--x:0px;--wp--custom--box-shadow--y:0px;--wp--custom--box-shadow--hover--y:0px;--wp--custom--box-shadow--blur:0px;--wp--custom--box-shadow--spread:6px;--wp--custom--box-shadow--hover--spread:15px;--wp--custom--box-shadow--color:#00f3f324"><a class="wp-block-button__link has-primary-gradient-background has-text-color has-background wp-element-button" href="#" style="color:#070b1cbf">Choose Business</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -145,7 +145,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"backgroundColor":"background","className":"is-style-default","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center is-style-default has-background-background-color has-background" style="flex-basis:33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xs"},"position":{"all":"relative"},"zIndex":{"all":"2"},"border":{"width":"0px","style":"none"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"24"} -->
-<h3 class="has-text-align-center has-24-font-size">Lifetime</h3>
+<h3 class="wp-block-heading has-text-align-center has-24-font-size">Lifetime</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-default","fontSize":"14"} -->
@@ -153,7 +153,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"54"} -->
-<h4 class="has-text-align-center has-54-font-size"><sup>$</sup>299<span style="--wp--custom--font-size:clamp(18px,2vw,20px);" class="has-font  has-inline-font-size">/one time</span></h4>
+<h4 class="wp-block-heading has-text-align-center has-54-font-size"><sup>$</sup>299<span style="--wp--custom--font-size:clamp(18px,2vw,20px);" class="has-font  has-inline-font-size">/one time</span></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"style":{"typography":{"lineHeight":"2"}},"className":"is-style-checklist","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
@@ -188,18 +188,18 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:button {"backgroundColor":"shadow","textColor":"body","style":{"boxShadow":{"color":"transparent"}},"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-body-color has-shadow-background-color has-text-color has-background wp-element-button">Choose Lifetime</a></div>
+<div class="wp-block-button is-style-fill has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-body-color has-shadow-background-color has-text-color has-background wp-element-button" href="#">Choose Lifetime</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{}},"className":"pricing-monthly has-display-none"} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center pricing-monthly has-display-none"><!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"className":"is-style-default","layout":{"contentSize":"240px"}} -->
+<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{},"display":{"all":"none"}},"className":"pricing-monthly"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center pricing-monthly"><!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"className":"is-style-default","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center is-style-default" style="flex-basis:33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xs"},"position":{"all":"relative"},"zIndex":{"all":"2"},"border":{"width":"0px","style":"none"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"24"} -->
-<h3 class="has-text-align-center has-24-font-size">Personal</h3>
+<h3 class="wp-block-heading has-text-align-center has-24-font-size">Personal</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-default","fontSize":"14"} -->
@@ -207,7 +207,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"54"} -->
-<h4 class="has-text-align-center has-54-font-size"><sup>$</sup>49<small>/yr</small></h4>
+<h4 class="wp-block-heading has-text-align-center has-54-font-size"><sup>$</sup>49<small>/yr</small></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"style":{"typography":{"lineHeight":"2"}},"className":"is-style-checklist"} -->
@@ -251,7 +251,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"9px"},"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"gradient":"custom-theme","className":"is-style-default","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center is-style-default has-custom-theme-gradient-background has-background" style="border-radius:9px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xs"},"position":{"all":"relative"},"zIndex":{"all":"2"},"border":{"width":"0px","style":"none"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"24"} -->
-<h3 class="has-text-align-center has-24-font-size">Business</h3>
+<h3 class="wp-block-heading has-text-align-center has-24-font-size">Business</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-default","fontSize":"14"} -->
@@ -259,7 +259,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"54"} -->
-<h4 class="has-text-align-center has-54-font-size"><sup>$</sup>199<small>/yr</small></h4>
+<h4 class="wp-block-heading has-text-align-center has-54-font-size"><sup>$</sup>199<small>/yr</small></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"style":{"typography":{"lineHeight":"2"}},"className":"is-style-checklist"} -->
@@ -303,7 +303,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"33%","style":{"boxShadow":"","position":{"all":"relative"},"zIndex":{"all":"1"}},"backgroundColor":"background","className":"is-style-default","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center is-style-default has-background-background-color has-background" style="flex-basis:33%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xs"},"position":{"all":"relative"},"zIndex":{"all":"2"},"border":{"width":"0px","style":"none"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"24"} -->
-<h3 class="has-text-align-center has-24-font-size">Lifetime</h3>
+<h3 class="wp-block-heading has-text-align-center has-24-font-size">Lifetime</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"is-style-default","fontSize":"14"} -->
@@ -311,7 +311,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"fontSize":"54"} -->
-<h4 class="has-text-align-center has-54-font-size"><sup>$</sup>399<span style="--wp--custom--font-size:clamp(18px,2vw,20px);" class="has-font has-inline-font-size">/one time</span></h4>
+<h4 class="wp-block-heading has-text-align-center has-54-font-size"><sup>$</sup>399<span style="--wp--custom--font-size:clamp(18px,2vw,20px);" class="has-font has-inline-font-size">/one time</span></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"style":{"typography":{"lineHeight":"2"}},"className":"is-style-checklist"} -->
@@ -346,7 +346,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:button {"backgroundColor":"shadow","textColor":"body","style":{"boxShadow":{"color":"transparent"}},"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-body-color has-shadow-background-color has-text-color has-background wp-element-button">Choose Lifetime</a></div>
+<div class="wp-block-button is-style-fill has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-body-color has-shadow-background-color has-text-color has-background wp-element-button" href="#">Choose Lifetime</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

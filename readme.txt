@@ -37,46 +37,12 @@ Google Fonts
 License: SIL Open Font License, 1.1
 License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
-Open Doodles SVG Illustrations
-License: CCO
-License URL: https://www.opendoodles.com/about
-
-Custom SVG Illustrations
-All custom inline SVG illustrations and placeholder logos designed by the author and licensed under GNU General Public License, version 2 or later.
-
-Stock Photos
-
-All stock photos licensed under Creative Commons Zero (CC0) license.
-
-iMac Man Working
-Source: https://pxhere.com/en/photo/706571
-
-Laptop Man Outside
-Source: https://pxhere.com/en/photo/796340
-
-Laptop Man Cafe
-Source: https://pxhere.com/en/photo/911822
-
-Office Desk Women
-Source: https://pxhere.com/en/photo/1629587
-
-Laptop Outdoors Woman
-Source: https://pxhere.com/en/photo/1622682
-
-Woman Working Desk
-Source: https://pxhere.com/en/photo/1629589
-
-Team Office:
-Source: https://pxhere.com/en/photo/1629588
+WordPress & Social Icons
+License: GPL-2.0-or-later
+License URL: https://github.com/WordPress/WordPress/blob/master/license.txt
 
 == Changelog ==
 
+= 0.0.1 - 20 December 2022 =
 
-
-= 0.1.1 - 24 November 2022 =
-
-* Fix: Pattern image URLs
-
-= 0.1.0 - 24 November 2022 =
-
-* Update: Redesign
+* Release

@@ -27,7 +27,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"align":"wide","style":{"color":{"text":"#fffffff7"}}} -->
-<h2 class="alignwide has-text-color alignwide" style="color:#fffffff7">Buy, sell and trade digital assets the smarter way</h2>
+<h2 class="wp-block-heading alignwide has-text-color" style="color:#fffffff7">Buy, sell and trade digital assets the smarter way</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"var:preset|spacing|md"}}}} -->
@@ -37,11 +37,11 @@
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|sm"},"blockGap":"var:preset|spacing|md"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group" style="margin-top:0;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:buttons {"className":"is-center-mobile","layout":{"type":"flex","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"0.3em","right":"0.3em","bottom":"0.3em","left":"0.3em"},"blockGap":"0"},"border":{"radius":"999px"},"boxShadow":{"spread":15,"color":"#00f3f324","blur":"0","y":"0","x":"0","hover":{"x":"0","y":"0","blur":"0","spread":"0"}}},"fontSize":"18","gradient":"primary"} -->
 <div class="wp-block-buttons has-custom-font-size is-center-mobile has-primary-gradient-background has-background has-18-font-size has-box-shadow" style="border-radius:999px;padding-top:0.3em;padding-right:0.3em;padding-bottom:0.3em;padding-left:0.3em;--wp--custom--box-shadow--x:0px;--wp--custom--box-shadow--hover--x:0px;--wp--custom--box-shadow--y:0px;--wp--custom--box-shadow--hover--y:0px;--wp--custom--box-shadow--blur:0px;--wp--custom--box-shadow--hover--blur:0px;--wp--custom--box-shadow--spread:15px;--wp--custom--box-shadow--hover--spread:0px;--wp--custom--box-shadow--color:#00f3f324"><!-- wp:button {"backgroundColor":"transparent","textColor":"black","style":{"boxShadow":{"color":"transparent"}}} -->
-<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-black-color has-transparent-background-color has-text-color has-background wp-element-button">Create Free Account</a></div>
+<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-black-color has-transparent-background-color has-text-color has-background wp-element-button" href="#">Create Free Account</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"white","style":{"boxShadow":{"color":"transparent"},"spacing":{"padding":{"top":"var:preset|spacing|xs","right":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}},"color":{"text":"#070a1ce3"}}} -->
-<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-white-background-color has-text-color has-background wp-element-button" style="color:#070a1ce3;padding-top:var(--wp--preset--spacing--xs);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">→</a></div>
+<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-white-background-color has-text-color has-background wp-element-button" href="#" style="color:#070a1ce3;padding-top:var(--wp--preset--spacing--xs);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">→</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->

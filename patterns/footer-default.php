@@ -11,7 +11,7 @@
 <div class="wp-block-group alignfull is-style-dark has-transparent-background-color has-background has-20-font-size" style="border-bottom-color:var(--wp--preset--color--outline);border-bottom-width:1px;margin-top:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":{"top":"0","left":"0"}}},"className":"is-style-default"} -->
 <div class="wp-block-columns alignwide is-style-default" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxs"},"margin":{"top":"0"}}}} -->
-<h3 class="has-text-align-left" style="margin-top:0;padding-bottom:var(--wp--preset--spacing--xxs)">Join the leading platform customers love</h3>
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:0;padding-bottom:var(--wp--preset--spacing--xxs)">Join the leading platform customers love</h3>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|xxs","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"600px","justifyContent":"left"}} -->
@@ -37,11 +37,11 @@
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|xs"},"blockGap":"var:preset|spacing|xs"},"display":{"mobile":"none"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
 <div class="wp-block-group" style="margin-top:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:buttons {"className":"is-center-mobile","layout":{"type":"flex","flexWrap":"nowrap"},"style":{"spacing":{"padding":{"top":"0.3em","right":"0.3em","bottom":"0.3em","left":"0.3em"},"blockGap":"0"},"border":{"radius":"999px"},"boxShadow":{"spread":15,"color":"#00f3f324","blur":"0","y":"0","x":"0","hover":{"x":"0","y":"0","blur":"0","spread":"0"}}},"fontSize":"18","gradient":"primary"} -->
 <div class="wp-block-buttons has-custom-font-size is-center-mobile has-primary-gradient-background has-background has-18-font-size has-box-shadow" style="border-radius:999px;padding-top:0.3em;padding-right:0.3em;padding-bottom:0.3em;padding-left:0.3em;--wp--custom--box-shadow--x:0px;--wp--custom--box-shadow--hover--x:0px;--wp--custom--box-shadow--y:0px;--wp--custom--box-shadow--hover--y:0px;--wp--custom--box-shadow--blur:0px;--wp--custom--box-shadow--hover--blur:0px;--wp--custom--box-shadow--spread:15px;--wp--custom--box-shadow--hover--spread:0px;--wp--custom--box-shadow--color:#00f3f324"><!-- wp:button {"backgroundColor":"transparent","textColor":"black","style":{"boxShadow":{"color":"transparent"}}} -->
-<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-black-color has-transparent-background-color has-text-color has-background wp-element-button">Boost Your Store</a></div>
+<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-black-color has-transparent-background-color has-text-color has-background wp-element-button" href="#">Boost Your Store</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"white","style":{"boxShadow":{"color":"transparent"},"spacing":{"padding":{"top":"var:preset|spacing|xs","right":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}},"color":{"text":"#070b1ced"}}} -->
-<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-white-background-color has-text-color has-background wp-element-button" style="color:#070b1ced;padding-top:var(--wp--preset--spacing--xs);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">→</a></div>
+<div class="wp-block-button has-box-shadow" style="--wp--custom--box-shadow--color:transparent"><a class="wp-block-button__link has-white-background-color has-text-color has-background wp-element-button" href="#" style="color:#070b1ced;padding-top:var(--wp--preset--spacing--xs);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">→</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
@@ -74,7 +74,7 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"body","iconColorValue":"#284962","size":"has-small-icon-size","style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|md"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->
+<!-- wp:social-links {"iconColor":"neutral","iconColorValue":"#67919b","size":"has-small-icon-size","style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|md"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->
 <ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only" style="margin-top:0;padding-top:var(--wp--preset--spacing--md)"><!-- wp:social-link {"url":"#","service":"twitter"} /-->
 
 <!-- wp:social-link {"url":"#","service":"youtube"} /-->
@@ -94,7 +94,7 @@
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":6,"className":"has-text-align-left","fontSize":"18"} -->
-<h6 class="has-text-align-left has-18-font-size">Pages<br></h6>
+<h6 class="wp-block-heading has-text-align-left has-18-font-size">Pages<br></h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -130,7 +130,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":6,"className":"has-text-align-left","fontSize":"18"} -->
-<h6 class="has-text-align-left has-18-font-size">Store<br></h6>
+<h6 class="wp-block-heading has-text-align-left has-18-font-size">Store<br></h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -162,7 +162,7 @@
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":6,"className":"has-text-align-left","fontSize":"18"} -->
-<h6 class="has-text-align-left has-18-font-size">Content<br></h6>
+<h6 class="wp-block-heading has-text-align-left has-18-font-size">Content<br></h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -190,7 +190,7 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":6,"className":"has-text-align-left","fontSize":"18"} -->
-<h6 class="has-text-align-left has-18-font-size">Extra<br></h6>
+<h6 class="wp-block-heading has-text-align-left has-18-font-size">Extra<br></h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -206,7 +206,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https://wp-themes.com/blockify/?page_id=2&amp;pattern_name=page-style-guide" target="_blank">Style Guide ↗</a></p>
+<p>Style Guide ↗</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -219,7 +219,7 @@
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|sm"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"16"} -->
-<p class="aligncenter has-text-align-center has-16-font-size aligncenter">© Copyright [year] Mintify Theme <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-body-color">⚡️</mark> by Blockify. All rights reserved. </p>
+<p class="aligncenter has-text-align-center has-16-font-size aligncenter">© Copyright [year] Mintify. All rights reserved. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"textDecoration":"none"},"display":{"mobile":"","desktop":"none"}},"fontSize":"16"} -->
