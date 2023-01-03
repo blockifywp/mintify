@@ -76,15 +76,14 @@
       "transition": "all 0.2s ease",
       "darkMode": {
         "palette": {
-          "foreground": "#ffffff",
+          "contrast": "#ffffff",
           "heading": "#f6f6f9",
           "body": "#c6efff",
+          "neutral": "#67919b",
           "outline": "#18323d",
           "surface": "#18323d",
-          "background": "#151929",
           "base": "#070b1b",
-          "contrast": "#ffffff",
-          "shadow": "#00fff010"
+          "shadow": "#07121e"
         },
         "gradients": {
           "dark": "radial-gradient(50% 50% at 50% 0%, var(--wp--preset--color--primary-lighter) 0%, transparent 100%),radial-gradient(75% 75% at 50% 50%, var(--wp--preset--color--base) 0%, var(--wp--preset--color--shadow) 100%)",
@@ -105,7 +104,7 @@
         "fontWeight": "600"
       },
       "surfaceOverlay": {
-        "background": "var(--wp--preset--color--background)",
+        "background": "var(--wp--preset--color--base)",
         "opacity": "0.5"
       }
     },
@@ -274,7 +273,7 @@
         {
           "slug": "pie-chart",
           "name": "Pie Chart",
-          "gradient": "conic-gradient(var(--wp--preset--color--surface) 0% 35%, var(--wp--preset--color--shadow) 35% 60%, var(--wp--preset--color--base) 60% 100%)"
+          "gradient": "conic-gradient(var(--wp--preset--color--surface) 0% 35%, var(--wp--preset--color--primary) 35% 60%, var(--wp--preset--color--base) 60% 100%)"
         },
         {
           "gradient": "linear-gradient(0deg, var(--wp--preset--color--base) 0%, transparent 100%)",
