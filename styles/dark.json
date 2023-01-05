@@ -123,12 +123,12 @@
         {
           "slug": "pie-chart",
           "name": "Pie Chart",
-          "gradient": "conic-gradient(var(--wp--preset--color--surface) 0% 35%, var(--wp--preset--color--shadow) 35% 60%, var(--wp--preset--color--base) 60% 100%)"
+          "gradient": "conic-gradient(var(--wp--preset--color--surface) 0% 35%, var(--wp--preset--color--primary) 35% 60%, var(--wp--preset--color--base) 60% 100%)"
         },
         {
           "gradient": "linear-gradient(0deg, var(--wp--preset--color--base) 0%, transparent 100%)",
-          "name": "Background Transparent Blur",
-          "slug": "background-transparent-blur"
+          "name": "Base Transparent Blur",
+          "slug": "base-transparent-blur"
         }
       ]
     }

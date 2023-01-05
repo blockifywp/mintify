@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.0.2
+Stable tag: 0.0.4
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -38,6 +38,16 @@ License: SIL Open Font License, 1.1
 License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
 == Changelog ==
+
+= 0.0.4 - 5 January 2023 =
+
+* Remove: Unused patterns
+* Fix: Dark style gradients
+
+= 0.0.3 - 3 January 2023 =
+
+* Add: Dark style variation
+* Fix: Footer credits
 
 = 0.0.2 - 21 December 2022 =
 

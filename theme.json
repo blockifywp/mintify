@@ -277,8 +277,8 @@
         },
         {
           "gradient": "linear-gradient(0deg, var(--wp--preset--color--base) 0%, transparent 100%)",
-          "name": "Background Transparent Blur",
-          "slug": "background-transparent-blur"
+          "name": "Base Transparent Blur",
+          "slug": "base-transparent-blur"
         }
       ]
     },

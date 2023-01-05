@@ -6,8 +6,8 @@
  * Block Types: core/template-part/footer
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|md"},"margin":{"top":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"typography":{"textDecoration":"none"},"overflow":{"all":"hidden"}},"gradient":"dark","className":"is-style-default","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default has-dark-gradient-background has-background" style="margin-top:0;padding-top:0;padding-bottom:var(--wp--preset--spacing--md);text-decoration:none"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0"}},"border":{"bottom":{"color":"var:preset|color|primary-lighter","width":"1px"}}},"backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"},"fontSize":"20"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|md"},"margin":{"top":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"typography":{"textDecoration":"none"},"overflow":{"all":"hidden"},"color":{"text":"#c6efffed"}},"gradient":"dark","className":"is-style-default","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default has-dark-gradient-background has-text-color has-background" style="color:#c6efffed;margin-top:0;padding-top:0;padding-bottom:var(--wp--preset--spacing--md);text-decoration:none"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0"}},"border":{"bottom":{"color":"var:preset|color|primary-lighter","width":"1px"}}},"backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"},"fontSize":"20"} -->
 <div class="wp-block-group alignfull is-style-default has-transparent-background-color has-background has-20-font-size" style="border-bottom-color:var(--wp--preset--color--primary-lighter);border-bottom-width:1px;margin-top:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":{"top":"0","left":"0"}}},"className":"is-style-default"} -->
 <div class="wp-block-columns alignwide is-style-default" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxs"},"margin":{"top":"0"}},"color":{"text":"#ffffffed"}}} -->
@@ -15,8 +15,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|xxs","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"600px","justifyContent":"left"}} -->
-<div class="wp-block-group" style="margin-top:0;padding-top:var(--wp--preset--spacing--xxs);padding-bottom:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"bottom":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"color":{"text":"#c6efffed"}}} -->
-<p class="has-text-color" style="color:#c6efffed;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-bottom:0">Work with the world's leading web development experts for success with your next project</p>
+<div class="wp-block-group" style="margin-top:0;padding-top:var(--wp--preset--spacing--xxs);padding-bottom:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"bottom":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
+<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-bottom:0">Work with the world's leading web development experts for success with your next project</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|lg","bottom":"0"}},"display":{"desktop":"none"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
@@ -49,8 +49,8 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","backgroundColor":"transparent","className":"is-style-default","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide is-style-default has-transparent-background-color has-background"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg","top":"var:preset|spacing|xl","right":"0","left":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|xxl"}}},"className":"is-style-default","fontSize":"18"} -->
+<!-- wp:group {"align":"wide","className":"is-style-default","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide is-style-default"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg","top":"var:preset|spacing|xl","right":"0","left":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|xxl"}}},"className":"is-style-default","fontSize":"18"} -->
 <div class="wp-block-columns alignwide is-style-default has-18-font-size" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-right:0;padding-bottom:var(--wp--preset--spacing--lg);padding-left:0"><!-- wp:column {"width":"33%","style":{"spacing":{"padding":{"bottom":"1em"}}},"fontSize":"18"} -->
 <div class="wp-block-column has-18-font-size" style="padding-bottom:1em;flex-basis:33%"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|xxs","right":"var:preset|spacing|xs"},"blockGap":"0px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -71,7 +71,7 @@
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+<p>Discover, create and grow financial management software for the future of crypto investments.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"iconColor":"neutral","iconColorValue":"#67919b","size":"has-small-icon-size","style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|md"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"}} -->

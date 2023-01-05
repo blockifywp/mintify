@@ -22,7 +22,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"left","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxs"}}},"gradient":"text","fontSize":"72"} -->
-<h1 class="wp-block-heading has-text-align-left has-text-gradient-background has-background has-72-font-size" style="padding-bottom:var(--wp--preset--spacing--xxs)"><?php echo __('Smarter investments to help you achieve financial freedom ', 'mintify'); ?></h1>
+<h1 class="wp-block-heading has-text-align-left has-text-gradient-background has-background has-72-font-size" style="padding-bottom:var(--wp--preset--spacing--xxs)"><?php _e('Smarter investments to help you achieve financial freedom', 'mintify') ?></h1>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|xxs","bottom":"var:preset|spacing|xs"}}},"layout":{"type":"constrained","contentSize":"600px","justifyContent":"left"}} -->
@@ -132,8 +132,8 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxs","right":"var:preset|spacing|xxs","bottom":"var:preset|spacing|xxs","left":"var:preset|spacing|xxs"},"blockGap":"var:preset|spacing|xxs"},"position":{"all":"absolute"},"zIndex":{"all":"2"},"right":{"all":"52%"},"bottom":{"all":"52%"}},"gradient":"background-transparent-blur","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group is-style-surface has-background-transparent-blur-gradient-background has-background" style="padding-top:var(--wp--preset--spacing--xxs);padding-right:var(--wp--preset--spacing--xxs);padding-bottom:var(--wp--preset--spacing--xxs);padding-left:var(--wp--preset--spacing--xxs)"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"className":""} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxs","right":"var:preset|spacing|xxs","bottom":"var:preset|spacing|xxs","left":"var:preset|spacing|xxs"},"blockGap":"var:preset|spacing|xxs"},"position":{"all":"absolute"},"zIndex":{"all":"2"},"right":{"all":"52%"},"bottom":{"all":"52%"},"border":{"width":"0px","style":"none"}},"backgroundColor":"primary-lighter","className":"is-style-surface","layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group is-style-surface has-primary-lighter-background-color has-background" style="border-style:none;border-width:0px;padding-top:var(--wp--preset--spacing--xxs);padding-right:var(--wp--preset--spacing--xxs);padding-bottom:var(--wp--preset--spacing--xxs);padding-left:var(--wp--preset--spacing--xxs)"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"className":""} -->
 <p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><strong>Average</strong></p>
 <!-- /wp:paragraph -->
 
