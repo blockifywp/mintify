@@ -22,7 +22,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading -->
-<h2>The all-in-one solution for digital banking</h2>
+<h2 class="wp-block-heading">The all-in-one solution for digital banking</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -40,7 +40,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"fontSize":"24"} -->
-<h3 class="has-24-font-size">Increased profits</h3>
+<h3 class="wp-block-heading has-24-font-size">Increased profits</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xs"}}}} -->
@@ -54,7 +54,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"fontSize":"24"} -->
-<h3 class="has-24-font-size">Real time analytics</h3>
+<h3 class="wp-block-heading has-24-font-size">Real time analytics</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xs"}}}} -->
@@ -68,7 +68,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"fontSize":"24"} -->
-<h3 class="has-24-font-size">Cloud integrations</h3>
+<h3 class="wp-block-heading has-24-font-size">Cloud integrations</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xs"}}}} -->
@@ -82,7 +82,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"fontSize":"24"} -->
-<h3 class="has-24-font-size">Unlimited usage</h3>
+<h3 class="wp-block-heading has-24-font-size">Unlimited usage</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xs"}}}} -->

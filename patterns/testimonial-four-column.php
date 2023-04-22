@@ -22,7 +22,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading -->
-<h2>Hear what people are saying about us</h2>
+<h2 class="wp-block-heading">Hear what people are saying about us</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -37,8 +37,8 @@
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm","top":"0"},"blockGap":{"top":"var:preset|spacing|md","left":"var:preset|spacing|xxl"}}}} -->
 <div class="wp-block-columns alignwide" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:column {"className":"is-style-default"} -->
-<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"button","fontSize":"16"} -->
-<p class="has-button-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
+<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"primary","fontSize":"16"} -->
+<p class="has-primary-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -51,8 +51,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"is-style-default"} -->
-<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"button","fontSize":"16"} -->
-<p class="has-button-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
+<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"primary","fontSize":"16"} -->
+<p class="has-primary-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -69,8 +69,8 @@
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm","top":"0"},"blockGap":{"top":"var:preset|spacing|md","left":"var:preset|spacing|xxl"}}}} -->
 <div class="wp-block-columns alignwide" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:column {"className":"is-style-default"} -->
-<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"button","fontSize":"16"} -->
-<p class="has-button-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
+<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"primary","fontSize":"16"} -->
+<p class="has-primary-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -83,8 +83,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"is-style-default"} -->
-<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"button","fontSize":"16"} -->
-<p class="has-button-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
+<div class="wp-block-column is-style-default"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"0.5em"}},"gradient":"primary","fontSize":"16"} -->
+<p class="has-primary-gradient-background has-background has-16-font-size" style="letter-spacing:0.5em">★★★★★</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

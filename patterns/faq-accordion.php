@@ -1,13 +1,13 @@
 <?php
 /**
- * Title: FAQ Accordion
+ * Title: Faq Accordion
  * Slug: faq-accordion
  * Categories: faq
  * 
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxl","top":"var:preset|spacing|xl"},"margin":{"top":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"overflow":{"all":"hidden"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|xxs"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xl","top":"var:preset|spacing|xl"},"margin":{"top":"0"}},"position":{"all":"relative"},"zIndex":{"all":"1"},"overflow":{"all":"hidden"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|xxs"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--xxs)"><!-- wp:group {"style":{"typography":{"lineHeight":"1","fontStyle":"normal","fontWeight":"500","letterSpacing":"0.01em","textDecoration":"none"},"spacing":{"blockGap":"var:preset|spacing|xxs","padding":{"top":"3px","right":"3px","bottom":"3px","left":"3px"}},"border":{"radius":"99px"}},"backgroundColor":"surface","className":"is-style-default","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group is-style-default has-surface-background-color has-background" style="border-radius:99px;padding-top:3px;padding-right:3px;padding-bottom:3px;padding-left:3px;font-style:normal;font-weight:500;letter-spacing:0.01em;line-height:1;text-decoration:none"><!-- wp:paragraph {"style":{"spacing":{"padding":{"top":"4px","right":"8px","bottom":"4px","left":"8px"}},"border":{"radius":"99px","width":"1px"},"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"12px"}},"backgroundColor":"base","borderColor":"outline"} -->
 <p class="has-border-color has-outline-border-color has-base-background-color has-background" style="border-width:1px;border-radius:99px;padding-top:4px;padding-right:8px;padding-bottom:4px;padding-left:8px;font-size:12px;font-style:normal;font-weight:700">FAQ</p>
@@ -20,7 +20,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center">Frequently asked questions</h2>
+<h2 class="wp-block-heading has-text-align-center">Frequently asked questions</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"},"blockGap":{"top":"0","left":"var:preset|spacing|xl"}}}} -->

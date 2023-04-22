@@ -5,12 +5,15 @@
  * Categories: template
  * Inserter: false
  */
-
-require __DIR__ . '/hero-default.php';
-require __DIR__ . '/feature-brands.php';
-require __DIR__ . '/feature-icons.php';
-require __DIR__ . '/cta-box.php';
-require __DIR__ . '/testimonial-four-column.php';
-require __DIR__ . '/feature-icon-boxes.php';
-require __DIR__ . '/pricing-three-column.php';
-require __DIR__ . '/faq-accordion.php';
+?>
+<!-- wp:group {"tagName":"main","align":"full","layout":{"inherit":true}} -->
+<main class="wp-block-group alignfull">
+	<!-- wp:pattern {"slug":"hero-default"} /-->
+	<!-- wp:pattern {"slug":"feature-brands"} /-->
+	<!-- wp:pattern {"slug":"feature-icons"} /-->
+	<!-- wp:pattern {"slug":"cta-box"} /-->
+	<!-- wp:pattern {"slug":"testimonial-four-column"} /-->
+	<!-- wp:pattern {"slug":"feature-icon-boxes"} /-->
+	<!-- wp:pattern {"slug":"pricing-three-column"} /-->
+</main>
+<!-- /wp:group -->

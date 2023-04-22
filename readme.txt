@@ -1,8 +1,8 @@
 === Mintify ===
 Contributors: blockify
 Requires at least: 6.1
-Tested up to: 6.1
-Stable tag: 0.0.4
+Tested up to: 6.2
+Stable tag: 0.1.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,11 +33,22 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details,
 
-Google Fonts
+Google Fonts (Inter)
 License: SIL Open Font License, 1.1
 License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
 == Changelog ==
+
+= 0.1.0 - 22 April 2023 =
+
+* Fix: Dark mode toggle
+* Fix: Testimonial star color
+* Fix: Header placeholder logo
+* Update: Icons in patterns
+* Update: Content and wide widths
+* Update: Blog grid pattern
+* Remove: Flow block font
+* Remove: Templates and template parts
 
 = 0.0.4 - 5 January 2023 =
 
