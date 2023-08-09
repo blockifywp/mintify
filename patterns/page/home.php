@@ -14,4 +14,5 @@
 <!-- wp:pattern {"slug":"testimonial-four-column"} /-->
 <!-- wp:pattern {"slug":"feature-icon-boxes"} /-->
 <!-- wp:pattern {"slug":"pricing-three-column"} /-->
+<!-- wp:pattern {"slug":"faq-accordion"} /-->
 <!-- wp:pattern {"slug":"cta-horizontal"} /-->

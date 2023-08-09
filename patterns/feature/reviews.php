@@ -7,8 +7,8 @@
  */
 ?>
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md"},"margin":{"bottom":"0","top":"0"},"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}},"border":{"radius":"15px"}},"textColor":"surface","gradient":"text"} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center has-surface-color has-text-gradient-background has-text-color has-background" style="border-radius:15px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)"><!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","right":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md"},"margin":{"bottom":"0","top":"0"},"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}},"border":{"radius":"8px"}},"textColor":"neutral-700","gradient":"dark","className":"is-style-dark"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center is-style-dark has-neutral-700-color has-dark-gradient-background has-text-color has-background" style="border-radius:8px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)"><!-- wp:column {"verticalAlignment":"center","width":""} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":3,"textColor":"base"} -->
 <h3 class="wp-block-heading has-base-color has-text-color">See why more than 10,000 people use our software</h3>
 <!-- /wp:heading -->
