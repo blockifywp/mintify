@@ -80,16 +80,6 @@
         "outline": "#e2e8f0",
         "surface": "#f1f5f9",
         "base": "#ffffff"
-      },
-      "surface": {
-        "borderColor": "transparent",
-        "backdropFilter": "blur(6px)",
-        "boxShadow": "var(--wp--preset--shadow--sm)",
-        "borderRadius": "var(--wp--custom--border--radius)"
-      },
-      "surfaceOverlay": {
-        "background": "var(--wp--preset--color--base)",
-        "opacity": "0.05"
       }
     },
     "color": {
