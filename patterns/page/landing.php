@@ -3,7 +3,6 @@
  * Title: Landing
  * Slug: landing
  * Categories: page
- * Inserter: false
  */
 ?>
 
