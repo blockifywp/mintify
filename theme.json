@@ -33,53 +33,22 @@
   ],
   "settings": {
     "custom": {
-      "darkMode": {
-        "palette": {
-          "neutral-0": "#020617",
-          "neutral-50": "#020617",
-          "neutral-100": "#0f172a",
-          "neutral-200": "#1e293b",
-          "neutral-300": "#334155",
-          "neutral-400": "#475569",
-          "neutral-500": "#64748b",
-          "neutral-600": "#94a3b8",
-          "neutral-700": "#cbd5e1",
-          "neutral-800": "#e2e8f0",
-          "neutral-900": "#f1f5f9",
-          "neutral-950": "#f8fafc",
-          "primary-100": "#083344",
-          "primary-300": "#0e7490",
-          "primary-500": "#0891b2",
-          "primary-600": "#06b6d4",
-          "primary-700": "#67e8f9",
-          "primary-900": "#ecfeff",
-          "success-100": "#022c22",
-          "success-500": "#10b981",
-          "success-600": "#34d399",
-          "warning-100": "#451a03",
-          "warning-500": "#eab308",
-          "warning-600": "#facc15",
-          "error-100": "#4c0519",
-          "error-500": "#f43f5e",
-          "error-600": "#fb7185"
-        },
-        "gradients": {
-          "dark": "radial-gradient(50% 50% at 50% 0%, var(--wp--preset--color--primary-100) 0%, transparent 100%),radial-gradient(75% 75% at 50% 50%, var(--wp--preset--color--neutral-100) 0%, var(--wp--preset--color--neutral-50) 100%)"
-        }
-      },
       "deprecatedColors": {
-        "primaryDarker": "#083344",
-        "primaryDark": "#0891b2",
-        "primary": "#06b6d4",
-        "primaryLight": "#22d3ee",
-        "primaryLighter": "#ecfeff",
-        "contrast": "#0f172a",
-        "heading": "#1e293b",
-        "body": "#475569",
-        "neutral": "#64748b",
-        "outline": "#e2e8f0",
-        "surface": "#f1f5f9",
-        "base": "#ffffff"
+        "primaryDarker": "var(--wp--preset--color--primary-900)",
+        "primaryDark": "var(--wp--preset--color--primary-700)",
+        "primary": "var(--wp--preset--color--primary-600)",
+        "primaryLight": "var(--wp--preset--color--primary-300)",
+        "primaryLighter": "var(--wp--preset--color--primary-100)",
+        "contrast": "var(--wp--preset--color--neutral-0)",
+        "heading": "var(--wp--preset--color--neutral-800)",
+        "body": "var(--wp--preset--color--neutral-600)",
+        "neutral": "var(--wp--preset--color--neutral-500)",
+        "outline": "var(--wp--preset--color--neutral-200)",
+        "surface": "var(--wp--preset--color--neutral-100)",
+        "base": "var(--wp--preset--color--neutral-0)"
+      },
+      "border": {
+        "color": "var(--wp--preset--color--neutral-100)"
       }
     },
     "color": {
