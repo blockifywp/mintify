@@ -5,6 +5,6 @@
   "license": "GPL-2.0-or-later",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/mintify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
-    "zip": "rm -Rf ../../mintify.zip && zip -r ../../mintify.zip assets/ languages/ parts/ patterns/ styles/ templates/ readme.txt screenshot.png style.css theme.json"
+    "zip": "rm -Rf ../../mintify.zip && zip -r ../../mintify.zip assets/ languages/ patterns/ styles/ readme.txt screenshot.png style.css theme.json"
   }
 }
