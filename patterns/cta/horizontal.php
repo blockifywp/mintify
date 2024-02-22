@@ -1,14 +1,14 @@
 <?php
 /**
- * Title: Horizontal
+ * Title: Cta Horizontal
  * Slug: horizontal
  * Categories: cta
- * ID: 12390
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default has-transparent-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","right":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg"},"blockGap":{"top":"var:preset|spacing|md","left":"0"}},"border":{"radius":"8px","width":"1px"},"color":{"text":"#ffffffb0"}},"gradient":"dark","className":"is-style-dark"} -->
-<div class="wp-block-columns alignwide is-style-dark has-dark-gradient-background has-text-color has-background" style="border-width:1px;border-radius:8px;color:#ffffffb0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:column {"width":""} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}},"backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default has-transparent-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:group {"align":"wide","style":{"border":{"radius":"8px"}},"backgroundColor":"neutral-0","className":"is-style-dark","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide is-style-dark has-neutral-0-background-color has-background" style="border-radius:8px"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","right":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg"},"blockGap":{"top":"var:preset|spacing|md","left":"0"}},"border":{"radius":"8px"},"color":{"text":"#ffffffb0"}},"gradient":"light","className":"is-style-dark"} -->
+<div class="wp-block-columns alignwide is-style-dark has-light-gradient-background has-text-color has-background" style="border-radius:8px;color:#ffffffb0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxs"},"margin":{"top":"0"}}}} -->
 <h3 class="wp-block-heading has-text-align-left" style="margin-top:0;padding-bottom:var(--wp--preset--spacing--xxs)">Join the platform customers love.</h3>
 <!-- /wp:heading -->
@@ -29,4 +29,5 @@
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
