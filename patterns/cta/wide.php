@@ -1,16 +1,15 @@
 <?php
 /**
- * Title: CTA Wide
+ * Title: Cta Wide
  * Slug: wide
  * Categories: cta
- * ID: 12505
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"},"margin":{"top":"0"}}},"backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default has-transparent-background-color has-background" style="margin-top:0;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":{"top":"0","left":"0"}}},"className":"is-style-default"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"},"margin":{"top":"0"}}},"className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default" style="margin-top:0;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":{"top":"0","left":"0"}}},"className":"is-style-default"} -->
 <div class="wp-block-columns alignwide is-style-default" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column {"width":""} -->
-<div class="wp-block-column"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxs"},"margin":{"top":"0"}}},"gradient":"text"} -->
-<h3 class="wp-block-heading has-text-align-left has-text-gradient-background has-background" style="margin-top:0;padding-bottom:var(--wp--preset--spacing--xxs)">Join the platform customers love.</h3>
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xxs"},"margin":{"top":"0"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:0;padding-bottom:var(--wp--preset--spacing--xxs)">Join the platform customers love.</h3>
 <!-- /wp:heading -->
 <!-- wp:paragraph {"style":{"spacing":{"padding":{"bottom":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
 <p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-bottom:0">Trust your business with the world's leading web development experts for success with your next project</p>

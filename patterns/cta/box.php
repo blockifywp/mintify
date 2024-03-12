@@ -5,8 +5,8 @@
  * Categories: cta
  */
 ?>
-<!-- wp:group {"align":"full","backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default has-transparent-background-color has-background"><!-- wp:group {"align":"wide","style":{"border":{"radius":"15px"},"spacing":{"margin":{"bottom":"0"},"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md"}},"position":{"all":"relative"},"zIndex":{"all":"1"}},"backgroundColor":"neutral-0","textColor":"neutral-600","className":"is-style-dark","layout":{"type":"default"}} -->
+<!-- wp:group {"align":"full","style":{"position":{"all":"relative"},"overflow":{"all":"hidden"},"spacing":{"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}},"backgroundColor":"transparent","className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default has-transparent-background-color has-background" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:group {"align":"wide","style":{"border":{"radius":"15px"},"spacing":{"margin":{"bottom":"0"},"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md"}},"position":{"all":"relative"},"zIndex":{"all":"1"}},"backgroundColor":"neutral-0","textColor":"neutral-600","className":"is-style-dark","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide is-style-dark has-neutral-600-color has-neutral-0-background-color has-text-color has-background" style="border-radius:15px;margin-bottom:0;padding-right:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)"><!-- wp:spacer {"height":"100%","style":{"filter":{},"position":{"all":"absolute"},"top":{"all":"0px"},"right":{"all":"0px"},"bottom":{"all":""},"left":{"all":"0px"}},"gradient":"light"} -->
 <div style="height:100%" aria-hidden="true" class="wp-block-spacer has-light-gradient-background has-background"></div>
 <!-- /wp:spacer -->
