@@ -27,6 +27,7 @@
     ]
   },
   "scripts": {
-    "zip": "composer archive --format=zip --file=../mintify"
+    "zip": "composer archive --format=zip --file=../mintify",
+    "pot": "wp i18n make-pot ./ languages/mintify.pot --exclude='assets'"
   }
 }
