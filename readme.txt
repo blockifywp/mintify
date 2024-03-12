@@ -1,8 +1,8 @@
 === Mintify ===
 Contributors: blockify
-Requires at least: 6.2
+Requires at least: 6.4
 Tested up to: 6.4
-Stable tag: 0.5.0
+Stable tag: 0.6.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -39,7 +39,12 @@ License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
 == Changelog ==
 
-= 0.5.0 = 8 November 2023 =
+= 0.5.0 - 12 March 2024 =
+
+* Add: Composer.json and zip script
+* Remove: Package.json
+
+= 0.5.0 - 8 November 2023 =
 
 * Update: Blockify 1.3.0 and WordPress 6.4 compatibility
 
