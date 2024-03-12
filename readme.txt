@@ -39,10 +39,13 @@ License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
 == Changelog ==
 
-= 0.5.0 - 12 March 2024 =
+= 0.6.0 - 12 March 2024 =
 
 * Add: Composer.json and zip script
 * Remove: Package.json
+* Fix: Pattern overflow issues
+* Fix: Pattern image URLs
+* Update: Rename landing page pattern to home page
 
 = 0.5.0 - 8 November 2023 =
 
